@@ -1,0 +1,24 @@
+Put the game in GE/ES/IT/FR
+If you have the game on Steam, just read these instructions
+https://help.steampowered.com/fr/faqs/view/4984-C127-121D-B3F2
+
+READ THE INSTRUCTIONS BELOW
+
+Make sure you don't have any process that uses the current game files (the game, qBittorrent etc).
+
+Simply download the .zip file, extract/move the folder inside (to the desktop for example) and then double click on the .bat file provided with it and follow the instructions.
+The path to your game can be found in the bar at the top of the file explorer when you are in the game folder.
+
+If you encounter an error after installing the patch or if some voices are missing or if the game is still in English, you can drag all folders and files from the patch to the root of your game (into the game folder directly).
+Exception for WAW and BO1 in addition to doing this you must also delete files in your game.
+
+For World at War and Black Ops, delete all localized_English_iw files in the main folder and delete the English folder in the zone folder.
+
+:warning:  ***The German patch for warld at war blocks access to zombies, as zombie mode is banned in Germany.*** :warning: 
+
+Translation German https://drive.google.com/file/d/1Stn6UPesBEUJmx1XyLvDEvumPHUWbRze/view?usp=sharing
+Translation Spanish https://drive.google.com/file/d/1R4yQFWnQd4U5__q_0vJGgcNSQZkUY4SU/view?usp=sharing
+Translation Italian https://drive.google.com/file/d/1NCu-mpNaqseQLeaAlYra6-j0PuYFBTf-/view?usp=sharing
+Translation French https://drive.google.com/file/d/1g_DXGw2ncyfQkR3LzI_5ycOu7Ms9-BPb/view?usp=drivesdk
+
+YouTube video tutorial https://youtu.be/X8AKppifRm8
