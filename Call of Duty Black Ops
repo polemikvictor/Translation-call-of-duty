@@ -1,0 +1,23 @@
+Put the game in GE/ES/IT/FR/RU
+If you have the game on Steam, just read these instructions
+https://help.steampowered.com/fr/faqs/view/4984-C127-121D-B3F2
+
+READ THE INSTRUCTIONS BELOW
+
+Make sure you don't have any process that uses the current game files (the game, qBittorrent etc).
+
+Simply download the .zip file, extract/move the folder inside (to the desktop for example) and then double click on the .bat file provided with it and follow the instructions.
+The path to your game can be found in the bar at the top of the file explorer when you are in the game folder.
+
+If you encounter an error after installing the patch or if some voices are missing or if the game is still in English, you can drag all folders and files from the patch to the root of your game (into the game folder directly).
+Exception for WAW and BO1 in addition to doing this you must also delete files in your game.
+
+For World at War and Black Ops, delete all localized_English_iw files in the main folder and delete the English folder in the zone folder.
+
+Translation German https://drive.google.com/file/d/1fwi_vRwPOI4armpXRqpsIpk-Sgr2S6yR/view?usp=sharing
+Translation Spanish https://drive.google.com/file/d/1t0TyBYpf76dhawBnlmOh0OEdVlkG53Yz/view?usp=sharing
+Translation Italian https://drive.google.com/file/d/1l5f1CwFnCKgRVqXT8AZmYmwkaUMr1pfw/view?usp=sharing
+Translation French https://drive.google.com/file/d/1-2dZp6YRmO1G1dDM7AM8yv3odWEUEatA/view?usp=sharing
+Translation Russian https://drive.google.com/file/d/188SCEGLTgLjw8xNpCT871VlmlhhO1s00/view?usp=sharing
+
+YouTube video tutorial](https://youtu.be/X8AKppifRm8
